@@ -34,7 +34,7 @@ Autoencoders are widely used for:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/denoising-autoencoder.git
+git clone https://github.com/Divyansh8791/denoising-autoencoder.git
 cd denoising-autoencoder
 ```
 
