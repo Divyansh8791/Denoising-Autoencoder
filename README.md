@@ -25,7 +25,7 @@ Autoencoders are widely used for:
 ```
 📁 denoising-autoencoder
 │── 📜 README.md           # Project documentation
-│── 📜 Autoencoder.ipynb   # Autoencoder model architecture
+│── 📜 Autoencoder.ipynb   # Denoising Autoencoder model architecture
 ```
 
 ---
